@@ -10,6 +10,9 @@ docker start container-name
 Docker stop container-name
 
 Docker ps -a
+
+
+
  
 
 
