@@ -1,3 +1,5 @@
+NOTE: docker run --name backendjava --restart always -d -p 8055:8055 surespraja/back-end:v8
+
 
 STOP ALL CONTAINERS:  docker stop $(docker ps -aq)
 
